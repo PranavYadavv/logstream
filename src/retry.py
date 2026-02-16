@@ -1,6 +1,6 @@
 """
 Retry logic with backoff strategies for logstream.
-Updated: 2026-07-12
+Updated: 2026-07-18
 """
 
 import logging
