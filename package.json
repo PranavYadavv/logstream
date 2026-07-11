@@ -1,0 +1,11 @@
+{
+  "name": "logstream",
+  "version": "0.1.0",
+  "description": "Real-time log aggregation and streaming pipeline",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}
